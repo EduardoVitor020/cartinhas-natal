@@ -26,7 +26,7 @@ Certifique-se de ter instalado:
 ### Passo 1: Clonar o repositório
 No local onde você deseja salvar o projeto, abra o terminal e execute o comando abaixo:
 ```bash
-git clone https://github.com/gomeshadriel/cartinhas-natal.git'
+git clone https://github.com/EduardoVitor020/cartinhas-natal.git'
 ```
 ### Passo 2: Abrir o projeto
 Abra a pasta raiz do projeto na IDE de sua preferência (recomendamos o VS Code).
